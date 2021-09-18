@@ -1,0 +1,22 @@
+
+.icono_nav{
+    float: left;
+    width: 100px;
+    height: 50px;
+}
+
+.icono_nav img{
+    width: 50%;
+}
+
+.MuiToolbar-regular{
+    justify-content: space-between;
+}
+.MuiAppBar-colorPrimary {
+    background-color: black !important;
+}
+
+.lista_nav{
+    display: flex;
+    list-style: none;
+}
