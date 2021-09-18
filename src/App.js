@@ -9,7 +9,7 @@ function App() {
       
   return (
     <div className="App">
-      <NavBar> </NavBar>
+      <NavBar></NavBar>
       <h1>The Queen Accessories</h1>
       <div></div>
          
@@ -20,5 +20,4 @@ function App() {
 
 
 export default App;
-
 
